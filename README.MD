@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 <b>Hi, I’m Islam Mohamed<b>
+👋 ##Hi, I’m Islam Mohamed
 <br><br>I’m a Data Analyst with a strong interest in Data Analytics and Business Intelligence.  <br>I focus on analyzing data , building dashboards , and transforming raw datasets into clear, actionable insights that support effective decision-making.<br><br>I work with structured and unstructured data to identify trends , uncover patterns, and deliver meaningful insights.  <br>My approach combines technical data analysis with a business-oriented mindset , ensuring that insights are practical, accurate, and easy to interpret.<br><br>
 
 
