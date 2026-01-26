@@ -1,3 +1,9 @@
+
+
+---
+[![](https://visitcount.itsvg.in/api?id= eng-islammohamed0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 💫 About Me:
 👋 Hi, I’m Islam Mohamed<br><br>I’m a Data Analyst with a strong interest in Data Analytics and Business Intelligence.  <br>I focus on analyzing data , building dashboards , and transforming raw datasets into clear, actionable insights that support effective decision-making.<br><br>I work with structured and unstructured data to identify trends , uncover patterns, and deliver meaningful insights.  <br>My approach combines technical data analysis with a business-oriented mindset , ensuring that insights are practical, accurate, and easy to interpret.<br><br>💻 Technical Skills<br>- Data Analysis: SQL, Python (pandas), Excel  <br>- Data Visualization & BI: Power BI, DAX, Dashboard Design  <br>- Databases: MySQL, SQL Server, Relational Database Concepts  <br>- Data Engineering Fundamentals: ETL & ELT, Data Warehousing Concepts  <br>- Statistics: Exploratory Data Analysis, Descriptive Statistics  <br><br>🎯 Professional Focus<br>- Data analysis and reporting  <br>- Dashboard development and data visualization  <br>- Data cleaning, transformation, and exploration  <br>- Supporting data-driven business decisions  <br><br>🚀 Professional Goals<br>- Apply data analytics skills to real-world business problems  <br>- Build impactful data analysis and BI projects  <br>- Continuously improve analytical, technical, and problem-solving skills  <br>
 
