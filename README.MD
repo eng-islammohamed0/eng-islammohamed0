@@ -1,41 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
-
-
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=eng-islammohamed0">
-    <img src="https://komarev.com/ghpvc/?username=eng-islammohamed0&label=Profile%20views&color=00FFFF&style=flat-square" alt="eng-islammohamed0's profile views" />
-  </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eng-islammohamed0&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" alt="eng-islammohamed0's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=eng-islammohamed0&theme=dracula&hide_border=true&cache_seconds=86400" alt="eng-islammohamed0's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eng-islammohamed0&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Islam Mohamed's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=eng-islammohamed0&theme=dracula&radius=10" alt="eng-islammohamed0's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-islammohamed0&layout=compact&theme=dracula&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
+<h3 align="center">Data Scientist</h3>
 
 
 
