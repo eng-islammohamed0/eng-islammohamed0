@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
+
 
 
 # 💫 About Me:
