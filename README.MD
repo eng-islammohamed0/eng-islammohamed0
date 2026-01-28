@@ -1,16 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
 
 
-
+👋 Hi, I’m Islam Mohamed
+<br><br>
 
 
 
 
 # 💫 About Me:
-👋 Hi, I’m Islam Mohamed
-<br><br>I’m a Data Analyst with a strong interest in Data Analytics and Business Intelligence.  <br>I focus on analyzing data , building dashboards , and transforming raw datasets into clear, actionable insights that support effective decision-making.<br><br>I work with structured and unstructured data to identify trends , uncover patterns, and deliver meaningful insights.  <br>My approach combines technical data analysis with a business-oriented mindset , ensuring that insights are practical, accurate, and easy to interpret.<br><br>
+Hi <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
+I’m a Data Analyst with a strong interest in Data Analytics and Business Intelligence.  <br>I focus on analyzing data , building dashboards , and transforming raw datasets into clear, actionable insights that support effective decision-making.<br><br>I work with structured and unstructured data to identify trends , uncover patterns, and deliver meaningful insights.  <br>My approach combines technical data analysis with a business-oriented mindset , ensuring that insights are practical, accurate, and easy to interpret.<br><br>
 
 
 ## 🌐 Socials:
