@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
+<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"></h1>
 
 
 
