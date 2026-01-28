@@ -1,15 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Islam%20Mohamed&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist&descSize=18&descAlignY=55&textBg=false"/>
 
-
-
-
-
-
-
-
 # 💫 About Me:
 👋 Hi, I’m a Data Analyst with a strong interest in Data Analytics and Business Intelligence.  <br>I focus on analyzing data , building dashboards , and transforming raw datasets into clear, actionable insights that support effective decision-making.<br><br>I work with structured and unstructured data to identify trends , uncover patterns, and deliver meaningful insights.  <br>My approach combines technical data analysis with a business-oriented mindset , ensuring that insights are practical, accurate, and easy to interpret.<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/islam-mohamed-22a06b350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:islammohamed.data@gmail.com) 
@@ -20,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=eng-islammohamed0&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=eng-islammohamed0&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-islammohamed0&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=eng-islammohamed0&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=eng-islammohamed0&theme=dark&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eng-islammohamed0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
